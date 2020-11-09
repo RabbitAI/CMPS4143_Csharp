@@ -1,0 +1,6 @@
+C:\Users\Douglas\source\repos\Critters\Critters\obj\Debug\Critters.csprojAssemblyReference.cache
+C:\Users\Douglas\source\repos\Critters\Critters\obj\Debug\Critters.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\Critters\Critters\bin\Debug\Critters.dll
+C:\Users\Douglas\source\repos\Critters\Critters\bin\Debug\Critters.pdb
+C:\Users\Douglas\source\repos\Critters\Critters\obj\Debug\Critters.dll
+C:\Users\Douglas\source\repos\Critters\Critters\obj\Debug\Critters.pdb
